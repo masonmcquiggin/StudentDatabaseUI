@@ -11,3 +11,4 @@ Search By Name - Allows the user to search through the database using first and 
 Display Students - Shows all the information of every student in the database
 Display Class Stats - Shows the class averages for all the students in the database
 
+![Screenshot 2024-03-20 at 1 02 38 PM](https://github.com/masonmcquiggin/StudentDatabaseUI/assets/117297849/eeb32071-85e1-4983-aef7-ab08d98c2e41)
