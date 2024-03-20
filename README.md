@@ -1,4 +1,6 @@
 # StudentDatabaseUI
+
+OOP Final Project:
 Created a UI that stores multiple student accounts and their respective grades.
 
 Using Java FXML and SceneBuilder, created a basic UI that stores students details in a database.
